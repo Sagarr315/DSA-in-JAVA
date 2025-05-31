@@ -46,9 +46,9 @@ Each folder contains:
 
 ## 🧭 Progress Tracker
 
-- 🔹 Total Problems Solved: `XX`
+- 🔹 Total Problems Solved: `01`
 - 🔹 Currently Working On: `Month 1`
-- 🔹 Last Updated: `May 30, 2025`
+
 
 ---
 
