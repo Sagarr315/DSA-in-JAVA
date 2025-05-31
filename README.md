@@ -10,12 +10,12 @@ Welcome to my personal 6-month journey of mastering **Data Structures and Algori
 
 | Month | Focus Area |
 |-------|-------------|
-| 1     | Arrays, Strings, Basic Math |
-| 2     | Recursion, Sorting, Searching |
-| 3     | Linked List, Stack, Queue |
-| 4     | Trees, Binary Trees, BSTs |
-| 5     | Graphs, Greedy, Backtracking |
-| 6     | Dynamic Programming, Tries, Interview Prep |
+| 1     | Arrays, Strings, Math & Basic Recursion |
+| 2     | Hashing, Two Pointers, Stack & Queue |
+| 3     | Linked Lists, Recursion & Backtracking |
+| 4     | Trees & Binary Search Trees (BST) |
+| 5     | Graphs (BFS, DFS, MST, Shortest Path) |
+| 6     | Dynamic Programming (DP) + Final Touch |
 
 ---
 
@@ -29,7 +29,7 @@ Each folder contains:
 
 ## ✨ What You'll Find Here
 
-- ✅ 500+ problems from platforms like LeetCode, GFG, CodeStudio
+- 🚀 Solving 100+ beginner to intermediate problems as I grow my skills
 - 🧠 Visual explanations & patterns
 - 💬 Notes and strategy for each topic
 - 🔥 Tracker to measure progress
@@ -54,8 +54,8 @@ Each folder contains:
 
 ## 📌 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🧑‍💻 [LeetCode Profile](https://leetcode.com/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sagarrbhor/)
+- 🧑‍💻 [LeetCode Profile](https://leetcode.com/u/Sagarr_Bhor/)
 - 🌟 GitHub: ⭐ this repo if you like the structure!
 
 ---
