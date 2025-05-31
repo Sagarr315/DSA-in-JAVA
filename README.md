@@ -19,21 +19,6 @@ Welcome to my personal 6-month journey of mastering **Data Structures and Algori
 
 ---
 
-## 📁 Folder Structure
-
-📦DSA-Journey
-┣ 📂Month-1
-┃ ┣ 📂Arrays
-┃ ┣ 📂Strings
-┃ ┗ 📜README.md
-┣ 📂Month-2
-┃ ┣ 📂Recursion
-┃ ┣ 📂Sorting
-┃ ┗ 📜README.md
-┣ ...
-
-
-
 Each folder contains:
 - ✅ Problem statement
 - 💡 Approach and explanation
