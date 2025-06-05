@@ -18,7 +18,7 @@ public class ReverseStringUsingCharArray {
 
     public static void main(String[] args) {
         String input = "hello";
-        String reversed = reverse(input);
+        String reversed = reverse(input); // call to method
 
         System.out.println("Original: " + input);
         System.out.println("Reversed: " + reversed);
