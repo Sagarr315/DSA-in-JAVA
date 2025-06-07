@@ -13,7 +13,7 @@ public class RunningSum {
         int[] result = runningSum(arr);
 
         // Print the result
-        System.out.print("Running Sum: ");
+        System.out.print("Running Sum: ")
         for (int num : result) {
             System.out.print(num + " ");
         }
