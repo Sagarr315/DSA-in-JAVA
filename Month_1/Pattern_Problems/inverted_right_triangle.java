@@ -1,4 +1,3 @@
-
 public class rectangle {
 	
 	    public static void main(String []args){
@@ -13,6 +12,7 @@ public class rectangle {
 	        System.out.println("");
 	    }
 	 }
+
 /*output;
  
 ****
