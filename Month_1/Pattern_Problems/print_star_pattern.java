@@ -17,3 +17,13 @@ public class rectangle {
 	        }
 	    }
 	}
+
+/*
+
+output:
+   *
+  **
+ ***
+****
+
+ */
